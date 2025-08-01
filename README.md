@@ -4,7 +4,7 @@ I'm a **Web Developer** specializing in crafting modern and responsive web appli
 
 ## 🚀 Skills & Tools
 - **Languages:** HTML5, CSS3, JavaScript
-- **Libraries & Frameworks:** jQuery, React
+- **Libraries & Frameworks:** jQuery, React,Redux,Redux ToolKit,Material UI, AntDesign
 
 ## 🌟 Featured Projects
 Here are some of my favorite projects (update these with your own!):
