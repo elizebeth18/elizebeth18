@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jilu Elizebeth 👋
 
-<!--
-**elizebeth18/elizebeth18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** specializing in crafting modern and responsive web applications. With a passion for clean code and seamless user experiences, I transform ideas into interactive, engaging solutions.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- **Languages:** HTML5, CSS3, JavaScript
+- **Libraries & Frameworks:** jQuery, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+Here are some of my favorite projects (update these with your own!):
+- [Project Name 1](#) – Brief description or highlight
+- [Project Name 2](#) – Brief description or highlight
+- [Project Name 3](#) – Brief description or highlight
+
+## ✨ About Me
+- Enthusiastic about web technologies and UI/UX design
+- I love travelling and discovering new places
+- Always learning and exploring the latest in tech
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jilu-elizebeth)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
